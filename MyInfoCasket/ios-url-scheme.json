@@ -1,7 +1,7 @@
 {
   "name": "URL Scheme 预设库",
   "version": "1.0.0",
-  "description": "常用 iOS App URL Scheme 集合，数据来源于网络，未经全部验证",
+  "description": "常用 iOS App URL Scheme 集合，数据来源于网络，未经全部验证。欢迎大家共享自己收藏的scheme，交流群联系作者新增！",
   "categories": [
     {
       "category": "国外社交",
@@ -21,6 +21,17 @@
         { "name": "Quantumult X", "scheme": "quantumult-x://open" },
         { "name": "Stream", "scheme": "wx6c96e0fd36d96dd3://" },
         { "name": "WhatsApp", "scheme": "whatsapp://" }
+      ]
+    },
+    {
+      "category": "常用播放器",
+      "icon": "play.fill",
+      "items": [
+        { "name": "Infuse", "scheme": "infuse://" },
+        { "name": "VidHub", "scheme": "vidhub://" },
+        { "name": "Plex", "scheme": "plex://" },
+        { "name": "SenPlayer", "scheme": "senplayer://" },
+        { "name": "Forward", "scheme": "forward://" }
       ]
     },
     {
