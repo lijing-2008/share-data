@@ -24,6 +24,17 @@
       ]
     },
     {
+      "category": "常用播放器",
+      "icon": "play.fill",
+      "items": [
+        { "name": "Infuse", "scheme": "infuse://" },
+        { "name": "VidHub", "scheme": "vidhub://" },
+        { "name": "Plex", "scheme": "plex://" },
+        { "name": "SenPlayer", "scheme": "senplayer://" },
+        { "name": "Forward", "scheme": "forward://" }
+      ]
+    },
+    {
       "category": "腾讯系列",
       "icon": "message.fill",
       "items": [
