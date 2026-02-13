@@ -4,11 +4,23 @@
   "description": "常用 iOS App URL Scheme 集合，数据来源于网络，未经全部验证",
   "categories": [
     {
-      "category": "AI搜索",
-      "icon": "brain",
+      "category": "国外社交",
+      "icon": "globe",
       "items": [
-        { "name": "AI搜索直达", "scheme": "https://thinkany.ai/zh/search?q=" },
-        { "name": "密塔AI", "scheme": "https://metaso.cn/?q=%@" }
+        { "name": "TikTok", "scheme": "snssdk1233://" },
+        { "name": "推特(X)", "scheme": "Twitter://" },
+        { "name": "Telegram", "scheme": "tg://" },
+        { "name": "Telegram群组bot等", "scheme": "https://t.me/MyInfoCasket" },
+        { "name": "Swiftgram", "scheme": "sg://" },
+        { "name": "YouTube", "scheme": "youtube://" },
+        { "name": "Instagram", "scheme": "instagram://" },
+        { "name": "Line", "scheme": "line://" },
+        { "name": "Stash", "scheme": "Stash://" },
+        { "name": "YouTube Music", "scheme": "youtubemusic://" },
+        { "name": "Shadowrocket", "scheme": "Shadowrocket://" },
+        { "name": "Quantumult X", "scheme": "quantumult-x://open" },
+        { "name": "Stream", "scheme": "wx6c96e0fd36d96dd3://" },
+        { "name": "WhatsApp", "scheme": "whatsapp://" }
       ]
     },
     {
@@ -125,25 +137,6 @@
         { "name": "日历", "scheme": "calshow://" },
         { "name": "短信", "scheme": "sms://" },
         { "name": "电话", "scheme": "tel://" }
-      ]
-    },
-    {
-      "category": "国外社交",
-      "icon": "globe",
-      "items": [
-        { "name": "TikTok", "scheme": "snssdk1233://" },
-        { "name": "推特(X)", "scheme": "Twitter://" },
-        { "name": "Telegram", "scheme": "tg://" },
-        { "name": "Swiftgram", "scheme": "sg://" },
-        { "name": "YouTube", "scheme": "youtube://" },
-        { "name": "Instagram", "scheme": "instagram://" },
-        { "name": "Line", "scheme": "line://" },
-        { "name": "Stash", "scheme": "Stash://" },
-        { "name": "YouTube Music", "scheme": "youtubemusic://" },
-        { "name": "Shadowrocket", "scheme": "Shadowrocket://" },
-        { "name": "Quantumult X", "scheme": "quantumult-x://open" },
-        { "name": "Stream", "scheme": "wx6c96e0fd36d96dd3://" },
-        { "name": "WhatsApp", "scheme": "whatsapp://" }
       ]
     },
     {
