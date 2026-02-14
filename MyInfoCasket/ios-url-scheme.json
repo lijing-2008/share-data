@@ -5,312 +5,968 @@
   "categories": [
     {
       "category": "欢迎大家共享自己收藏的scheme，交流群联系作者添加！",
-      "icon": "sharedwithyou",
+      "icon": "",
       "items": [
       ]
     },
-  "categories": [
     {
       "category": "国外社交",
       "icon": "globe",
       "items": [
-        { "name": "TikTok", "scheme": "snssdk1233://" },
-        { "name": "推特(X)", "scheme": "Twitter://" },
-        { "name": "Telegram", "scheme": "tg://" },
-        { "name": "Telegram群组bot等", "scheme": "https://t.me/MyInfoCasket" },
-        { "name": "Swiftgram", "scheme": "sg://" },
-        { "name": "YouTube", "scheme": "youtube://" },
-        { "name": "Instagram", "scheme": "instagram://" },
-        { "name": "Line", "scheme": "line://" },
-        { "name": "Stash", "scheme": "Stash://" },
-        { "name": "YouTube Music", "scheme": "youtubemusic://" },
-        { "name": "Shadowrocket", "scheme": "Shadowrocket://" },
-        { "name": "Quantumult X", "scheme": "quantumult-x://open" },
-        { "name": "Stream", "scheme": "wx6c96e0fd36d96dd3://" },
-        { "name": "WhatsApp", "scheme": "whatsapp://" }
+        {
+          "name": "TikTok",
+          "scheme": "snssdk1233://"
+        },
+        {
+          "name": "推特(X)",
+          "scheme": "Twitter://"
+        },
+        {
+          "name": "Telegram",
+          "scheme": "tg://"
+        },
+        {
+          "name": "Telegram群组bot等",
+          "scheme": "https://t.me/MyInfoCasket"
+        },
+        {
+          "name": "Swiftgram",
+          "scheme": "sg://"
+        },
+        {
+          "name": "YouTube",
+          "scheme": "youtube://"
+        },
+        {
+          "name": "Instagram",
+          "scheme": "instagram://"
+        },
+        {
+          "name": "Line",
+          "scheme": "line://"
+        },
+        {
+          "name": "Stash",
+          "scheme": "Stash://"
+        },
+        {
+          "name": "YouTube Music",
+          "scheme": "youtubemusic://"
+        },
+        {
+          "name": "Shadowrocket",
+          "scheme": "Shadowrocket://"
+        },
+        {
+          "name": "Quantumult X",
+          "scheme": "quantumult-x://open"
+        },
+        {
+          "name": "Stream",
+          "scheme": "wx6c96e0fd36d96dd3://"
+        },
+        {
+          "name": "WhatsApp",
+          "scheme": "whatsapp://"
+        }
       ]
     },
     {
       "category": "常用播放器",
       "icon": "play.fill",
       "items": [
-        { "name": "Infuse", "scheme": "infuse://" },
-        { "name": "VidHub", "scheme": "vidhub://" },
-        { "name": "Plex", "scheme": "plex://" },
-        { "name": "SenPlayer", "scheme": "senplayer://" },
-        { "name": "Forward", "scheme": "forward://" }
+        {
+          "name": "Infuse",
+          "scheme": "infuse://"
+        },
+        {
+          "name": "VidHub",
+          "scheme": "vidhub://"
+        },
+        {
+          "name": "Plex",
+          "scheme": "plex://"
+        },
+        {
+          "name": "SenPlayer",
+          "scheme": "senplayer://"
+        },
+        {
+          "name": "Forward",
+          "scheme": "forward://"
+        }
       ]
     },
     {
       "category": "腾讯系列",
       "icon": "message.fill",
       "items": [
-        { "name": "微信扫一扫", "scheme": "weixin://scanqrcode" },
-        { "name": "微信付款码", "scheme": "weixin://widget/pay" },
-        { "name": "微信读书", "scheme": "weread://" },
-        { "name": "QQ", "scheme": "mqq://" },
-        { "name": "QQ扫一扫", "scheme": "mqqapi://qrcode/scan_qrcode?version=1&src_type=app" },
-        { "name": "QQ群组", "scheme": "mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=QQ群号" },
-        { "name": "QQ联系人", "scheme": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=QQ号码" },
-        { "name": "tim", "scheme": "tim://" },
-        { "name": "tim 扫一扫", "scheme": "tim://qrcode/scan_qrcode?version=1&src_type=app" },
-        { "name": "QQ音乐", "scheme": "qqmusic://" },
-        { "name": "QQ音乐最近播放", "scheme": "qqmusic://today?mid=31&k1=2" },
-        { "name": "QQ音乐本地播放", "scheme": "qqmusic://today?mid=31&k1=3" },
-        { "name": "QQ音乐听歌识曲", "scheme": "qqmusic://http://qq.com/ui/recognize" },
-        { "name": "QQ音乐打开我喜欢列表", "scheme": "qqmusic://://qq.com/ui/myTab?p=%7B%22tab%22%3A%22fav%22%7D" },
-        { "name": "QQ邮箱", "scheme": "qqquicklogin://" },
-        { "name": "QQ浏览器", "scheme": "mqqbrowser://" },
-        { "name": "QQ同步助手", "scheme": "qqpim://" },
-        { "name": "QQ安全中心", "scheme": "qmtoken://" },
-        { "name": "QQ斗地主", "scheme": "tencent382://" },
-        { "name": "订阅号助手", "scheme": "wx50a3272e1669f0c0://" },
-        { "name": "心悦俱乐部", "scheme": "tgclub://" },
-        { "name": "DNF助手", "scheme": "dnfgamehelper://" },
-        { "name": "王者营地", "scheme": "kingscamp://" },
-        { "name": "腾讯视频", "scheme": "tenvideo://" },
-        { "name": "腾讯视频HD", "scheme": "tenvideo2://" },
-        { "name": "腾讯新闻", "scheme": "qqnews://" },
-        { "name": "腾讯微云", "scheme": "weiyun://" },
-        { "name": "企业微信", "scheme": "wxwork://" },
-        { "name": "政务微信", "scheme": "wxworklocal://" },
-        { "name": "企业邮箱", "scheme": "qqbizmailDistribute2://" },
-        { "name": "手机管家", "scheme": "mqqsecure://" },
-        { "name": "腾讯动漫", "scheme": "comicreader://" },
-        { "name": "腾讯会议", "scheme": "wemeet://" },
-        { "name": "腾讯文档", "scheme": "tencent101458937://" },
-        { "name": "腾讯翻译", "scheme": "wxa1f06899243f8b14://" },
-        { "name": "腾讯地图", "scheme": "sosomap://" }
+        {
+          "name": "微信扫一扫",
+          "scheme": "weixin://scanqrcode"
+        },
+        {
+          "name": "微信付款码",
+          "scheme": "weixin://widget/pay"
+        },
+        {
+          "name": "微信读书",
+          "scheme": "weread://"
+        },
+        {
+          "name": "QQ",
+          "scheme": "mqq://"
+        },
+        {
+          "name": "QQ扫一扫",
+          "scheme": "mqqapi://qrcode/scan_qrcode?version=1&src_type=app"
+        },
+        {
+          "name": "QQ群组",
+          "scheme": "mqqapi://card/show_pslcard?src_type=internal&version=1&card_type=group&uin=QQ群号"
+        },
+        {
+          "name": "QQ联系人",
+          "scheme": "mqqapi://card/show_pslcard?src_type=internal&version=1&uin=QQ号码"
+        },
+        {
+          "name": "tim",
+          "scheme": "tim://"
+        },
+        {
+          "name": "tim 扫一扫",
+          "scheme": "tim://qrcode/scan_qrcode?version=1&src_type=app"
+        },
+        {
+          "name": "QQ音乐",
+          "scheme": "qqmusic://"
+        },
+        {
+          "name": "QQ音乐最近播放",
+          "scheme": "qqmusic://today?mid=31&k1=2"
+        },
+        {
+          "name": "QQ音乐本地播放",
+          "scheme": "qqmusic://today?mid=31&k1=3"
+        },
+        {
+          "name": "QQ音乐听歌识曲",
+          "scheme": "qqmusic://http://qq.com/ui/recognize"
+        },
+        {
+          "name": "QQ音乐打开我喜欢列表",
+          "scheme": "qqmusic://://qq.com/ui/myTab?p=%7B%22tab%22%3A%22fav%22%7D"
+        },
+        {
+          "name": "QQ邮箱",
+          "scheme": "qqquicklogin://"
+        },
+        {
+          "name": "QQ浏览器",
+          "scheme": "mqqbrowser://"
+        },
+        {
+          "name": "QQ同步助手",
+          "scheme": "qqpim://"
+        },
+        {
+          "name": "QQ安全中心",
+          "scheme": "qmtoken://"
+        },
+        {
+          "name": "QQ斗地主",
+          "scheme": "tencent382://"
+        },
+        {
+          "name": "订阅号助手",
+          "scheme": "wx50a3272e1669f0c0://"
+        },
+        {
+          "name": "心悦俱乐部",
+          "scheme": "tgclub://"
+        },
+        {
+          "name": "DNF助手",
+          "scheme": "dnfgamehelper://"
+        },
+        {
+          "name": "王者营地",
+          "scheme": "kingscamp://"
+        },
+        {
+          "name": "腾讯视频",
+          "scheme": "tenvideo://"
+        },
+        {
+          "name": "腾讯视频HD",
+          "scheme": "tenvideo2://"
+        },
+        {
+          "name": "腾讯新闻",
+          "scheme": "qqnews://"
+        },
+        {
+          "name": "腾讯微云",
+          "scheme": "weiyun://"
+        },
+        {
+          "name": "企业微信",
+          "scheme": "wxwork://"
+        },
+        {
+          "name": "政务微信",
+          "scheme": "wxworklocal://"
+        },
+        {
+          "name": "企业邮箱",
+          "scheme": "qqbizmailDistribute2://"
+        },
+        {
+          "name": "手机管家",
+          "scheme": "mqqsecure://"
+        },
+        {
+          "name": "腾讯动漫",
+          "scheme": "comicreader://"
+        },
+        {
+          "name": "腾讯会议",
+          "scheme": "wemeet://"
+        },
+        {
+          "name": "腾讯文档",
+          "scheme": "tencent101458937://"
+        },
+        {
+          "name": "腾讯翻译",
+          "scheme": "wxa1f06899243f8b14://"
+        },
+        {
+          "name": "腾讯地图",
+          "scheme": "sosomap://"
+        }
       ]
     },
     {
       "category": "网易系列",
       "icon": "music.note",
       "items": [
-        { "name": "网易新闻", "scheme": "newsapp://" },
-        { "name": "网易云音乐", "scheme": "orpheus://" },
-        { "name": "网易云(识别音乐)", "scheme": "orpheus://recognize" },
-        { "name": "网易云（本地音乐）", "scheme": "orpheus://download" },
-        { "name": "网易云（私人FM）", "scheme": "orpheus://radio" },
-        { "name": "网易云（我的喜欢）", "scheme": "orpheus://playlist/32778108" },
-        { "name": "网易严选", "scheme": "yanxuan://" },
-        { "name": "有道词典", "scheme": "yddict://" },
-        { "name": "网易邮箱", "scheme": "neteasemail://" },
-        { "name": "网易公开课", "scheme": "ntesopen://" },
-        { "name": "网易将军令", "scheme": "netease-mkey://" },
-        { "name": "有道词典Pro", "scheme": "yddictproapp://" },
-        { "name": "有道翻译官", "scheme": "ydtranslator://" }
+        {
+          "name": "网易新闻",
+          "scheme": "newsapp://"
+        },
+        {
+          "name": "网易云音乐",
+          "scheme": "orpheus://"
+        },
+        {
+          "name": "网易云(识别音乐)",
+          "scheme": "orpheus://recognize"
+        },
+        {
+          "name": "网易云（本地音乐）",
+          "scheme": "orpheus://download"
+        },
+        {
+          "name": "网易云（私人FM）",
+          "scheme": "orpheus://radio"
+        },
+        {
+          "name": "网易云（我的喜欢）",
+          "scheme": "orpheus://playlist/32778108"
+        },
+        {
+          "name": "网易严选",
+          "scheme": "yanxuan://"
+        },
+        {
+          "name": "有道词典",
+          "scheme": "yddict://"
+        },
+        {
+          "name": "网易邮箱",
+          "scheme": "neteasemail://"
+        },
+        {
+          "name": "网易公开课",
+          "scheme": "ntesopen://"
+        },
+        {
+          "name": "网易将军令",
+          "scheme": "netease-mkey://"
+        },
+        {
+          "name": "有道词典Pro",
+          "scheme": "yddictproapp://"
+        },
+        {
+          "name": "有道翻译官",
+          "scheme": "ydtranslator://"
+        }
       ]
     },
     {
       "category": "百度系列",
       "icon": "magnifyingglass",
       "items": [
-        { "name": "百度云", "scheme": "baiduyun://" },
-        { "name": "百度输入法", "scheme": "BaiduIMShop://" },
-        { "name": "百度阅读", "scheme": "bdbook://" },
-        { "name": "手机百度", "scheme": "bdboxiosqrcode://" },
-        { "name": "百度音乐", "scheme": "baidumusic://" },
-        { "name": "百度视频", "scheme": "bdviphapp://" },
-        { "name": "百度浏览器", "scheme": "bdbrowser://" }
+        {
+          "name": "百度云",
+          "scheme": "baiduyun://"
+        },
+        {
+          "name": "百度输入法",
+          "scheme": "BaiduIMShop://"
+        },
+        {
+          "name": "百度阅读",
+          "scheme": "bdbook://"
+        },
+        {
+          "name": "手机百度",
+          "scheme": "bdboxiosqrcode://"
+        },
+        {
+          "name": "百度音乐",
+          "scheme": "baidumusic://"
+        },
+        {
+          "name": "百度视频",
+          "scheme": "bdviphapp://"
+        },
+        {
+          "name": "百度浏览器",
+          "scheme": "bdbrowser://"
+        }
       ]
     },
     {
       "category": "阿里系列",
       "icon": "cart.fill",
       "items": [
-        { "name": "淘宝", "scheme": "taobao://" },
-        { "name": "淘宝(搜索)", "scheme": "taobao://s.taobao.com/?q=裙子" },
-        { "name": "天猫", "scheme": "tmall://" },
-        { "name": "钉钉", "scheme": "dingtalk://" },
-        { "name": "菜鸟裹裹", "scheme": "cainiao://" },
-        { "name": "旺旺卖家版", "scheme": "wangwangseller://" },
-        { "name": "支付宝", "scheme": "alipay://" },
-        { "name": "支付宝(付款)", "scheme": "alipayqr://platformapi/startapp?saId=20000056" },
-        { "name": "支付宝(扫一扫)", "scheme": "alipayqr://platformapi/startapp?saId=10000007" },
-        { "name": "支付宝乘车码", "scheme": "alipayqr://platformapi/startapp?saId=200011235" },
-        { "name": "支付宝记账", "scheme": "alipay://platformapi/startapp?appId=20000168" },
-        { "name": "支付宝转账", "scheme": "alipayqr://platformapi/startapp?saId=20000116" },
-        { "name": "支付宝余额宝", "scheme": "alipayqr://platformapi/startapp?saId=20000032" },
-        { "name": "支付宝滴滴", "scheme": "alipay://platformapi/startapp?appId=20000778" },
-        { "name": "支付宝蚂蚁森林", "scheme": "alipay://platformapi/startapp?appId=60000002" },
-        { "name": "信用卡还款", "scheme": "alipays://platformapi/startapp?appId=09999999" },
-        { "name": "支付宝手机充值", "scheme": "alipayqr://platformapi/startapp?saId=10000003" },
-        { "name": "支付宝口令红包", "scheme": "alipayqr://platformapi/startapp?saId=88886666" },
-        { "name": "支付宝提现", "scheme": "alipayqr://platformapi/startapp?saId=20000033" },
-        { "name": "支付宝蚂蚁庄园", "scheme": "alipays://platformapi/startapp" },
-        { "name": "支付宝创建群聊", "scheme": "alipay://platformapi/startapp?appId=20000254&actionType=createGroup" }
+        {
+          "name": "淘宝",
+          "scheme": "taobao://"
+        },
+        {
+          "name": "淘宝(搜索)",
+          "scheme": "taobao://s.taobao.com/?q=裙子"
+        },
+        {
+          "name": "天猫",
+          "scheme": "tmall://"
+        },
+        {
+          "name": "钉钉",
+          "scheme": "dingtalk://"
+        },
+        {
+          "name": "菜鸟裹裹",
+          "scheme": "cainiao://"
+        },
+        {
+          "name": "旺旺卖家版",
+          "scheme": "wangwangseller://"
+        },
+        {
+          "name": "支付宝",
+          "scheme": "alipay://"
+        },
+        {
+          "name": "支付宝(付款)",
+          "scheme": "alipayqr://platformapi/startapp?saId=20000056"
+        },
+        {
+          "name": "支付宝(扫一扫)",
+          "scheme": "alipayqr://platformapi/startapp?saId=10000007"
+        },
+        {
+          "name": "支付宝乘车码",
+          "scheme": "alipayqr://platformapi/startapp?saId=200011235"
+        },
+        {
+          "name": "支付宝记账",
+          "scheme": "alipay://platformapi/startapp?appId=20000168"
+        },
+        {
+          "name": "支付宝转账",
+          "scheme": "alipayqr://platformapi/startapp?saId=20000116"
+        },
+        {
+          "name": "支付宝余额宝",
+          "scheme": "alipayqr://platformapi/startapp?saId=20000032"
+        },
+        {
+          "name": "支付宝滴滴",
+          "scheme": "alipay://platformapi/startapp?appId=20000778"
+        },
+        {
+          "name": "支付宝蚂蚁森林",
+          "scheme": "alipay://platformapi/startapp?appId=60000002"
+        },
+        {
+          "name": "信用卡还款",
+          "scheme": "alipays://platformapi/startapp?appId=09999999"
+        },
+        {
+          "name": "支付宝手机充值",
+          "scheme": "alipayqr://platformapi/startapp?saId=10000003"
+        },
+        {
+          "name": "支付宝口令红包",
+          "scheme": "alipayqr://platformapi/startapp?saId=88886666"
+        },
+        {
+          "name": "支付宝提现",
+          "scheme": "alipayqr://platformapi/startapp?saId=20000033"
+        },
+        {
+          "name": "支付宝蚂蚁庄园",
+          "scheme": "alipays://platformapi/startapp"
+        },
+        {
+          "name": "支付宝创建群聊",
+          "scheme": "alipay://platformapi/startapp?appId=20000254&actionType=createGroup"
+        }
       ]
     },
     {
       "category": "系统URL",
       "icon": "apple.logo",
       "items": [
-        { "name": "文件", "scheme": "shareddocuments://" },
-        { "name": "钱包", "scheme": "shoebox://" },
-        { "name": "捷径", "scheme": "shortcuts://" },
-        { "name": "邮箱", "scheme": "Message://" },
-        { "name": "备忘录", "scheme": "mobilenotes://" },
-        { "name": "相册", "scheme": "photos-redirect://" },
-        { "name": "日历", "scheme": "calshow://" },
-        { "name": "短信", "scheme": "sms://" },
-        { "name": "电话", "scheme": "tel://" }
+        {
+          "name": "文件",
+          "scheme": "shareddocuments://"
+        },
+        {
+          "name": "钱包",
+          "scheme": "shoebox://"
+        },
+        {
+          "name": "捷径",
+          "scheme": "shortcuts://"
+        },
+        {
+          "name": "邮箱",
+          "scheme": "Message://"
+        },
+        {
+          "name": "备忘录",
+          "scheme": "mobilenotes://"
+        },
+        {
+          "name": "相册",
+          "scheme": "photos-redirect://"
+        },
+        {
+          "name": "日历",
+          "scheme": "calshow://"
+        },
+        {
+          "name": "短信",
+          "scheme": "sms://"
+        },
+        {
+          "name": "电话",
+          "scheme": "tel://"
+        }
       ]
     },
     {
       "category": "社交平台",
       "icon": "person.2.fill",
       "items": [
-        { "name": "微博", "scheme": "sinaweibo://" },
-        { "name": "微博轻享版", "scheme": "weibointernational://" },
-        { "name": "酷安", "scheme": "tencent100336226://" },
-        { "name": "天涯社区", "scheme": "tianya://" },
-        { "name": "探探", "scheme": "tantanapp://" },
-        { "name": "陌陌", "scheme": "momochat://" }
+        {
+          "name": "微博",
+          "scheme": "sinaweibo://"
+        },
+        {
+          "name": "微博轻享版",
+          "scheme": "weibointernational://"
+        },
+        {
+          "name": "酷安",
+          "scheme": "tencent100336226://"
+        },
+        {
+          "name": "天涯社区",
+          "scheme": "tianya://"
+        },
+        {
+          "name": "探探",
+          "scheme": "tantanapp://"
+        },
+        {
+          "name": "陌陌",
+          "scheme": "momochat://"
+        }
       ]
     },
     {
       "category": "导航地图",
       "icon": "map.fill",
       "items": [
-        { "name": "高德地图", "scheme": "iosamap://" },
-        { "name": "百度地图", "scheme": "baidumap://" },
-        { "name": "腾讯地图", "scheme": "qqmap://" },
-        { "name": "上海地铁大都会", "scheme": "metro://qrcode" },
-        { "name": "北京交警", "scheme": "zcblbjjj://" },
-        { "name": "滴滴出行", "scheme": "diditaxi://" },
-        { "name": "摩拜单车扫码", "scheme": "mobike://scanqr" },
-        { "name": "订票助手", "scheme": "trainassist://" },
-        { "name": "艺龙旅行", "scheme": "elongIPhone://" },
-        { "name": "携程无线", "scheme": "CtripWireless://" },
-        { "name": "淘宝旅行", "scheme": "taobaotravel://" }
+        {
+          "name": "高德地图",
+          "scheme": "iosamap://"
+        },
+        {
+          "name": "百度地图",
+          "scheme": "baidumap://"
+        },
+        {
+          "name": "腾讯地图",
+          "scheme": "qqmap://"
+        },
+        {
+          "name": "上海地铁大都会",
+          "scheme": "metro://qrcode"
+        },
+        {
+          "name": "北京交警",
+          "scheme": "zcblbjjj://"
+        },
+        {
+          "name": "滴滴出行",
+          "scheme": "diditaxi://"
+        },
+        {
+          "name": "摩拜单车扫码",
+          "scheme": "mobike://scanqr"
+        },
+        {
+          "name": "订票助手",
+          "scheme": "trainassist://"
+        },
+        {
+          "name": "艺龙旅行",
+          "scheme": "elongIPhone://"
+        },
+        {
+          "name": "携程无线",
+          "scheme": "CtripWireless://"
+        },
+        {
+          "name": "淘宝旅行",
+          "scheme": "taobaotravel://"
+        }
       ]
     },
     {
       "category": "消费购物",
       "icon": "bag.fill",
       "items": [
-        { "name": "拼多多", "scheme": "pinduoduo://" },
-        { "name": "拼多多签到", "scheme": "pinduoduo://com.xunmeng.pinduoduo/https://mobile.yangkeduo.com/pythagoras_ctc_ca.html" },
-        { "name": "京东", "scheme": "openapp.jdmoble://" },
-        { "name": "美团", "scheme": "imeituan://" },
-        { "name": "美团外卖", "scheme": "meituanwaimai://" },
-        { "name": "大众点评", "scheme": "dianping://" },
-        { "name": "1号店", "scheme": "yhd://" },
-        { "name": "唯品会", "scheme": "vipshop://" }
+        {
+          "name": "拼多多",
+          "scheme": "pinduoduo://"
+        },
+        {
+          "name": "拼多多签到",
+          "scheme": "pinduoduo://com.xunmeng.pinduoduo/https://mobile.yangkeduo.com/pythagoras_ctc_ca.html"
+        },
+        {
+          "name": "京东",
+          "scheme": "openapp.jdmoble://"
+        },
+        {
+          "name": "美团",
+          "scheme": "imeituan://"
+        },
+        {
+          "name": "美团外卖",
+          "scheme": "meituanwaimai://"
+        },
+        {
+          "name": "大众点评",
+          "scheme": "dianping://"
+        },
+        {
+          "name": "1号店",
+          "scheme": "yhd://"
+        },
+        {
+          "name": "唯品会",
+          "scheme": "vipshop://"
+        }
       ]
     },
     {
       "category": "影音视频",
       "icon": "play.rectangle.fill",
       "items": [
-        { "name": "抖音", "scheme": "snssdk1128://" },
-        { "name": "抖音首页", "scheme": "snssdk1128://feed?refer=web" },
-        { "name": "抖音搜索", "scheme": "snssdk1128://search?keyword=" },
-        { "name": "快手", "scheme": "gifshow://" },
-        { "name": "火山小视频", "scheme": "wb1462309810://" },
-        { "name": "网易云音乐", "scheme": "orpheuswidget://" },
-        { "name": "酷我音乐", "scheme": "com.kuwo.kwmusic.kwmusicForKwsing://" },
-        { "name": "酷狗音乐", "scheme": "kugouURL://" },
-        { "name": "虾米音乐", "scheme": "xiami://" },
-        { "name": "搜狐视频", "scheme": "sohuvideo-iphone://" },
-        { "name": "爱奇艺视频", "scheme": "qiyi-iphone://" },
-        { "name": "PPTV视频", "scheme": "pptv://" },
-        { "name": "优酷视频", "scheme": "youku://" },
-        { "name": "哔哩哔哩", "scheme": "bilibili://" },
-        { "name": "哔哩哔哩搜索", "scheme": "bilibili://search?keyword=" },
-        { "name": "今日头条", "scheme": "snssdk141://" },
-        { "name": "豆瓣FM", "scheme": "doubanradio://" },
-        { "name": "全民K歌", "scheme": "qmkege://" },
-        { "name": "YY直播", "scheme": "yymobile://" }
+        {
+          "name": "抖音",
+          "scheme": "snssdk1128://"
+        },
+        {
+          "name": "抖音首页",
+          "scheme": "snssdk1128://feed?refer=web"
+        },
+        {
+          "name": "抖音搜索",
+          "scheme": "snssdk1128://search?keyword="
+        },
+        {
+          "name": "快手",
+          "scheme": "gifshow://"
+        },
+        {
+          "name": "火山小视频",
+          "scheme": "wb1462309810://"
+        },
+        {
+          "name": "网易云音乐",
+          "scheme": "orpheuswidget://"
+        },
+        {
+          "name": "酷我音乐",
+          "scheme": "com.kuwo.kwmusic.kwmusicForKwsing://"
+        },
+        {
+          "name": "酷狗音乐",
+          "scheme": "kugouURL://"
+        },
+        {
+          "name": "虾米音乐",
+          "scheme": "xiami://"
+        },
+        {
+          "name": "搜狐视频",
+          "scheme": "sohuvideo-iphone://"
+        },
+        {
+          "name": "爱奇艺视频",
+          "scheme": "qiyi-iphone://"
+        },
+        {
+          "name": "PPTV视频",
+          "scheme": "pptv://"
+        },
+        {
+          "name": "优酷视频",
+          "scheme": "youku://"
+        },
+        {
+          "name": "哔哩哔哩",
+          "scheme": "bilibili://"
+        },
+        {
+          "name": "哔哩哔哩搜索",
+          "scheme": "bilibili://search?keyword="
+        },
+        {
+          "name": "今日头条",
+          "scheme": "snssdk141://"
+        },
+        {
+          "name": "豆瓣FM",
+          "scheme": "doubanradio://"
+        },
+        {
+          "name": "全民K歌",
+          "scheme": "qmkege://"
+        },
+        {
+          "name": "YY直播",
+          "scheme": "yymobile://"
+        }
       ]
     },
     {
       "category": "银行系列",
       "icon": "creditcard.fill",
       "items": [
-        { "name": "网商银行", "scheme": "alibank://" },
-        { "name": "微众银行", "scheme": "webank://" },
-        { "name": "招商银行", "scheme": "cmbmobilebank://" },
-        { "name": "建设银行", "scheme": "wx2654d9155d70a468://" },
-        { "name": "工商银行", "scheme": "com.icbc.iphoneclient://" },
-        { "name": "交通银行", "scheme": "bocom://" },
-        { "name": "光大银行", "scheme": "com.cebbank.ebank://" },
-        { "name": "兴业银行", "scheme": "cibmb://" },
-        { "name": "广发银行", "scheme": "wb1211548225://" },
-        { "name": "发现精彩(广发银行信用卡)", "scheme": "credit://" },
-        { "name": "中国银行", "scheme": "BOCMBCIZF://" },
-        { "name": "中信银行", "scheme": "citic://" },
-        { "name": "农业银行", "scheme": "bankabc://" },
-        { "name": "邮政银行", "scheme": "wb1424286189://" },
-        { "name": "浦发银行", "scheme": "wx1cb534bb13ba3dbd://" },
-        { "name": "浦大喜奔", "scheme": "spdbccc://" },
-        { "name": "汇丰银行中国", "scheme": "hsbcchina://" },
-        { "name": "平安口袋银行", "scheme": "wx580e8081459daa14://" },
-        { "name": "民生银行", "scheme": "com.cmbc.cn.iphone://" },
-        { "name": "民生银行信用卡", "scheme": "wb3973160023://" },
-        { "name": "东莞银行", "scheme": "wx4db9c1c529c475e0://" },
-        { "name": "上海银行", "scheme": "BankOfShangHai://" },
-        { "name": "杭州银行", "scheme": "com.hzbank.hzbank.per://" },
-        { "name": "河北银行", "scheme": "hebbank://" },
-        { "name": "云闪付扫一扫", "scheme": "upwallet://native/scanCode" },
-        { "name": "云闪付付款码", "scheme": "upwallet://pay" },
-        { "name": "云闪付乘车码", "scheme": "upwallet://rn/rnhtmlridingcode" }
+        {
+          "name": "网商银行",
+          "scheme": "alibank://"
+        },
+        {
+          "name": "微众银行",
+          "scheme": "webank://"
+        },
+        {
+          "name": "招商银行",
+          "scheme": "cmbmobilebank://"
+        },
+        {
+          "name": "建设银行",
+          "scheme": "wx2654d9155d70a468://"
+        },
+        {
+          "name": "工商银行",
+          "scheme": "com.icbc.iphoneclient://"
+        },
+        {
+          "name": "交通银行",
+          "scheme": "bocom://"
+        },
+        {
+          "name": "光大银行",
+          "scheme": "com.cebbank.ebank://"
+        },
+        {
+          "name": "兴业银行",
+          "scheme": "cibmb://"
+        },
+        {
+          "name": "广发银行",
+          "scheme": "wb1211548225://"
+        },
+        {
+          "name": "发现精彩(广发银行信用卡)",
+          "scheme": "credit://"
+        },
+        {
+          "name": "中国银行",
+          "scheme": "BOCMBCIZF://"
+        },
+        {
+          "name": "中信银行",
+          "scheme": "citic://"
+        },
+        {
+          "name": "农业银行",
+          "scheme": "bankabc://"
+        },
+        {
+          "name": "邮政银行",
+          "scheme": "wb1424286189://"
+        },
+        {
+          "name": "浦发银行",
+          "scheme": "wx1cb534bb13ba3dbd://"
+        },
+        {
+          "name": "浦大喜奔",
+          "scheme": "spdbccc://"
+        },
+        {
+          "name": "汇丰银行中国",
+          "scheme": "hsbcchina://"
+        },
+        {
+          "name": "平安口袋银行",
+          "scheme": "wx580e8081459daa14://"
+        },
+        {
+          "name": "民生银行",
+          "scheme": "com.cmbc.cn.iphone://"
+        },
+        {
+          "name": "民生银行信用卡",
+          "scheme": "wb3973160023://"
+        },
+        {
+          "name": "东莞银行",
+          "scheme": "wx4db9c1c529c475e0://"
+        },
+        {
+          "name": "上海银行",
+          "scheme": "BankOfShangHai://"
+        },
+        {
+          "name": "杭州银行",
+          "scheme": "com.hzbank.hzbank.per://"
+        },
+        {
+          "name": "河北银行",
+          "scheme": "hebbank://"
+        },
+        {
+          "name": "云闪付扫一扫",
+          "scheme": "upwallet://native/scanCode"
+        },
+        {
+          "name": "云闪付付款码",
+          "scheme": "upwallet://pay"
+        },
+        {
+          "name": "云闪付乘车码",
+          "scheme": "upwallet://rn/rnhtmlridingcode"
+        }
       ]
     },
     {
       "category": "游戏系列",
       "icon": "gamecontroller.fill",
       "items": [
-        { "name": "王者荣耀", "scheme": "tencentlaunch1104466820://" },
-        { "name": "绝地求生 刺激战场", "scheme": "itlogin-JSMahjong://" },
-        { "name": "海岛奇兵", "scheme": "app://gridlens://" },
-        { "name": "天天飞车", "scheme": "tencent100695850://" },
-        { "name": "天天星连萌", "scheme": "tencent100689806://" },
-        { "name": "天天爱消除", "scheme": "tencent100689805://" },
-        { "name": "天天酷跑", "scheme": "tencent100692648://" },
-        { "name": "崩坏3", "scheme": "bh3rd://" },
-        { "name": "原神启动", "scheme": "yuanshengame://" },
-        { "name": "金铲铲之战", "scheme": "tencent1109811436://" },
-        { "name": "掌上英雄联盟", "scheme": "wb691835642://" },
-        { "name": "部落冲突", "scheme": "clashofclans://" },
-        { "name": "穿越火线", "scheme": "cf://" },
-        { "name": "元梦之星", "scheme": "letsgo://" }
+        {
+          "name": "王者荣耀",
+          "scheme": "tencentlaunch1104466820://"
+        },
+        {
+          "name": "绝地求生 刺激战场",
+          "scheme": "itlogin-JSMahjong://"
+        },
+        {
+          "name": "海岛奇兵",
+          "scheme": "app://gridlens://"
+        },
+        {
+          "name": "天天飞车",
+          "scheme": "tencent100695850://"
+        },
+        {
+          "name": "天天星连萌",
+          "scheme": "tencent100689806://"
+        },
+        {
+          "name": "天天爱消除",
+          "scheme": "tencent100689805://"
+        },
+        {
+          "name": "天天酷跑",
+          "scheme": "tencent100692648://"
+        },
+        {
+          "name": "崩坏3",
+          "scheme": "bh3rd://"
+        },
+        {
+          "name": "原神启动",
+          "scheme": "yuanshengame://"
+        },
+        {
+          "name": "金铲铲之战",
+          "scheme": "tencent1109811436://"
+        },
+        {
+          "name": "掌上英雄联盟",
+          "scheme": "wb691835642://"
+        },
+        {
+          "name": "部落冲突",
+          "scheme": "clashofclans://"
+        },
+        {
+          "name": "穿越火线",
+          "scheme": "cf://"
+        },
+        {
+          "name": "元梦之星",
+          "scheme": "letsgo://"
+        }
       ]
     },
     {
       "category": "杂七杂八",
       "icon": "hammer.fill",
       "items": [
-        { "name": "Cerulean工具箱", "scheme": "Cerulean://" },
-        { "name": "钱迹", "scheme": "qianji://" },
-        { "name": "Picsew", "scheme": "picsew://" },
-        { "name": "Picsew打开最近长截图", "scheme": "picsew://recent" },
-        { "name": "我的标记", "scheme": "clover-imark://" },
-        { "name": "抓图猫", "scheme": "imagecat://" },
-        { "name": "Piiic 2", "scheme": "wb1934889315://" },
-        { "name": "Alook浏览器", "scheme": "Alook://" },
-        { "name": "打开Alook并搜索", "scheme": "Alook://Search" },
-        { "name": "打开Alook书签", "scheme": "Alook://Bookmarks" },
-        { "name": "打开Alook下载界面", "scheme": "Alook://download/" },
-        { "name": "115云盘", "scheme": "wb1307639798://" },
-        { "name": "123云盘", "scheme": "wx5d164fd6498c6e80://" },
-        { "name": "米家", "scheme": "mihome://" },
-        { "name": "UC浏览器", "scheme": "ucbrowser://" },
-        { "name": "搜狗输入法", "scheme": "com.sogou.sogouinput://" },
-        { "name": "圈子账本", "scheme": "qzzb://" },
-        { "name": "我的密码", "scheme": "findmykey://" },
-        { "name": "我查查", "scheme": "wcc://" },
-        { "name": "名片全能王", "scheme": "camcard://" },
-        { "name": "Evernote", "scheme": "evernote://" },
-        { "name": "迅雷", "scheme": "thunder://" },
-        { "name": "天气通", "scheme": "sinaweather://" },
-        { "name": "墨迹天气", "scheme": "rm434209233MojiWeather://" },
-        { "name": "同花顺", "scheme": "amihexin://" },
-        { "name": "Keep", "scheme": "keep://" },
-        { "name": "掌阅iReader", "scheme": "iReader://" },
-        { "name": "七猫免费小说", "scheme": "freereader://" },
-        { "name": "Filza跳转", "scheme": "filza://var/mobile/Documents" }
+        {
+          "name": "Cerulean工具箱",
+          "scheme": "Cerulean://"
+        },
+        {
+          "name": "钱迹",
+          "scheme": "qianji://"
+        },
+        {
+          "name": "Picsew",
+          "scheme": "picsew://"
+        },
+        {
+          "name": "Picsew打开最近长截图",
+          "scheme": "picsew://recent"
+        },
+        {
+          "name": "我的标记",
+          "scheme": "clover-imark://"
+        },
+        {
+          "name": "抓图猫",
+          "scheme": "imagecat://"
+        },
+        {
+          "name": "Piiic 2",
+          "scheme": "wb1934889315://"
+        },
+        {
+          "name": "Alook浏览器",
+          "scheme": "Alook://"
+        },
+        {
+          "name": "打开Alook并搜索",
+          "scheme": "Alook://Search"
+        },
+        {
+          "name": "打开Alook书签",
+          "scheme": "Alook://Bookmarks"
+        },
+        {
+          "name": "打开Alook下载界面",
+          "scheme": "Alook://download/"
+        },
+        {
+          "name": "115云盘",
+          "scheme": "wb1307639798://"
+        },
+        {
+          "name": "123云盘",
+          "scheme": "wx5d164fd6498c6e80://"
+        },
+        {
+          "name": "米家",
+          "scheme": "mihome://"
+        },
+        {
+          "name": "UC浏览器",
+          "scheme": "ucbrowser://"
+        },
+        {
+          "name": "搜狗输入法",
+          "scheme": "com.sogou.sogouinput://"
+        },
+        {
+          "name": "圈子账本",
+          "scheme": "qzzb://"
+        },
+        {
+          "name": "我的密码",
+          "scheme": "findmykey://"
+        },
+        {
+          "name": "我查查",
+          "scheme": "wcc://"
+        },
+        {
+          "name": "名片全能王",
+          "scheme": "camcard://"
+        },
+        {
+          "name": "Evernote",
+          "scheme": "evernote://"
+        },
+        {
+          "name": "迅雷",
+          "scheme": "thunder://"
+        },
+        {
+          "name": "天气通",
+          "scheme": "sinaweather://"
+        },
+        {
+          "name": "墨迹天气",
+          "scheme": "rm434209233MojiWeather://"
+        },
+        {
+          "name": "同花顺",
+          "scheme": "amihexin://"
+        },
+        {
+          "name": "Keep",
+          "scheme": "keep://"
+        },
+        {
+          "name": "掌阅iReader",
+          "scheme": "iReader://"
+        },
+        {
+          "name": "七猫免费小说",
+          "scheme": "freereader://"
+        },
+        {
+          "name": "Filza跳转",
+          "scheme": "filza://var/mobile/Documents"
+        }
       ]
     }
   ]
