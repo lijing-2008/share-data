@@ -4,6 +4,13 @@
   "description": "常用 iOS App URL Scheme 集合，数据来源于网络，未经全部验证。欢迎大家共享自己收藏的scheme，交流群联系作者新增！",
   "categories": [
     {
+      "category": "欢迎大家共享自己收藏的scheme，交流群联系作者添加！",
+      "icon": "sharedwithyou",
+      "items": [
+      ]
+    },
+  "categories": [
+    {
       "category": "国外社交",
       "icon": "globe",
       "items": [
