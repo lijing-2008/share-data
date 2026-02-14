@@ -5,8 +5,12 @@
   "categories": [
     {
       "category": "欢迎大家共享自己收藏的scheme，交流群联系作者添加！",
-      "icon": "",
+      "icon": "sharedwithyou",
       "items": [
+        {
+          "name": "示例",
+          "scheme": "tg://"
+        }
       ]
     },
     {
