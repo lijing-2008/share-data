@@ -1,44 +1,63 @@
 {
-  "exportDate" : "2026-02-21T08:24:52Z",
-  "templates" : [
+  "version": "1.0",
+  "exportDate": "2026-02-21T00:00:00Z",
+  "templates": [
     {
-      "colorHex" : "#5B7C99",
-      "description" : "",
-      "fields" : [
+      "name": "链接收藏",
+      "description": "收藏常用网站、文章、资源链接，随时查阅",
+      "iconName": "link.circle.fill",
+      "colorHex": "#0FF0FC",
+      "tags": ["链接", "收藏", "网站"],
+      "fields": [
         {
-          "fieldType" : "文本",
-          "isRequired" : false,
-          "name" : "名称",
-          "options" : [
-
-          ],
-          "order" : 0
+          "name": "标题",
+          "fieldType": "文本",
+          "isRequired": true,
+          "order": 0,
+          "options": null,
+          "placeholder": "网站或文章标题"
         },
         {
-          "fieldType" : "链接",
-          "isRequired" : false,
-          "name" : "链接",
-          "options" : [
-
-          ],
-          "order" : 1
+          "name": "链接地址",
+          "fieldType": "链接",
+          "isRequired": true,
+          "order": 1,
+          "options": null,
+          "placeholder": "https://..."
         },
         {
-          "fieldType" : "长文本",
-          "isRequired" : false,
-          "name" : "备注",
-          "options" : [
-
-          ],
-          "order" : 2
+          "name": "分类",
+          "fieldType": "单选",
+          "isRequired": false,
+          "order": 2,
+          "options": ["工具", "文章", "教程", "资源", "社区", "文档", "视频", "其他"],
+          "placeholder": null
+        },
+        {
+          "name": "标签",
+          "fieldType": "多选",
+          "isRequired": false,
+          "order": 3,
+          "options": ["常用", "待读", "已读", "推荐", "工作", "学习", "生活"],
+          "placeholder": null
+        },
+        {
+          "name": "简介",
+          "fieldType": "长文本",
+          "isRequired": false,
+          "order": 4,
+          "options": null,
+          "placeholder": "简单描述这个链接的内容"
+        },
+        {
+          "name": "截图",
+          "fieldType": "图片",
+          "isRequired": false,
+          "order": 5,
+          "options": null,
+          "placeholder": null
         }
-      ],
-      "iconName" : "folder.fill",
-      "name" : "第1弹 链接收藏 模板",
-      "tags" : [
-
       ]
     }
-  ],
-  "version" : "1.0"
+  ]
 }
