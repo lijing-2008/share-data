@@ -1,0 +1,89 @@
+{
+  "exportDate" : "2026-02-20T12:39:35Z",
+  "templates" : [
+    {
+      "colorHex" : "#B967FF",
+      "description" : "",
+      "fields" : [
+        {
+          "fieldType" : "文本",
+          "isRequired" : true,
+          "name" : "姓名",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "称谓",
+          "options" : [
+
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : true,
+          "name" : "证件号码",
+          "options" : [
+
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "签发机关",
+          "options" : [
+
+          ],
+          "order" : 3
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "有效期限-起始",
+          "options" : [
+
+          ],
+          "order" : 4
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "有效期限-截止",
+          "options" : [
+
+          ],
+          "order" : 5
+        },
+        {
+          "fieldType" : "图片",
+          "isRequired" : false,
+          "name" : "正面照片",
+          "options" : [
+
+          ],
+          "order" : 6
+        },
+        {
+          "fieldType" : "图片",
+          "isRequired" : false,
+          "name" : "反面照片",
+          "options" : [
+
+          ],
+          "order" : 7
+        }
+      ],
+      "iconName" : "creditcard.fill",
+      "name" : "第3弹：身份证合集 模板",
+      "tags" : [
+
+      ]
+    }
+  ],
+  "version" : "1.0"
+}

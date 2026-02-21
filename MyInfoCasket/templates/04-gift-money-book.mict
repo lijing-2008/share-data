@@ -1,0 +1,111 @@
+{
+  "version": "1.0",
+  "exportDate": "2026-02-21T00:00:00Z",
+  "templates": [
+    {
+      "name": "礼金人情账本",
+      "description": "记录人情往来，礼尚往来心中有数",
+      "iconName": "gift.fill",
+      "colorHex": "#FF6B6B",
+      "tags": ["礼金", "人情", "随礼"],
+      "fields": [
+        {
+          "name": "事件类型",
+          "fieldType": "单选",
+          "isRequired": true,
+          "order": 0,
+          "options": ["婚礼", "生日", "满月", "乔迁", "升学", "丧事", "节日", "其他"],
+          "placeholder": null
+        },
+        {
+          "name": "对方姓名",
+          "fieldType": "文本",
+          "isRequired": true,
+          "order": 1,
+          "options": null,
+          "placeholder": "姓名"
+        },
+        {
+          "name": "与我关系",
+          "fieldType": "单选",
+          "isRequired": false,
+          "order": 2,
+          "options": ["亲戚", "朋友", "同事", "同学", "邻居", "领导", "下属", "其他"],
+          "placeholder": null
+        },
+        {
+          "name": "日期",
+          "fieldType": "日期",
+          "isRequired": true,
+          "order": 3,
+          "options": null,
+          "placeholder": null
+        },
+        {
+          "name": "金额",
+          "fieldType": "金额",
+          "isRequired": true,
+          "order": 4,
+          "options": null,
+          "placeholder": "礼金金额"
+        },
+        {
+          "name": "收支类型",
+          "fieldType": "单选",
+          "isRequired": true,
+          "order": 5,
+          "options": ["支出（我送出）", "收入（我收到）"],
+          "placeholder": null
+        },
+        {
+          "name": "支付形式",
+          "fieldType": "单选",
+          "isRequired": false,
+          "order": 6,
+          "options": ["现金", "微信", "支付宝", "银行转账", "礼物", "其他"],
+          "placeholder": null
+        },
+        {
+          "name": "场合描述",
+          "fieldType": "文本",
+          "isRequired": false,
+          "order": 7,
+          "options": null,
+          "placeholder": "如：张三儿子婚礼"
+        },
+        {
+          "name": "备注",
+          "fieldType": "长文本",
+          "isRequired": false,
+          "order": 8,
+          "options": null,
+          "placeholder": "其他需要记录的细节"
+        },
+        {
+          "name": "是否回礼",
+          "fieldType": "单选",
+          "isRequired": false,
+          "order": 9,
+          "options": ["已回礼", "待回礼", "无需回礼"],
+          "placeholder": null
+        },
+        {
+          "name": "回礼金额",
+          "fieldType": "金额",
+          "isRequired": false,
+          "order": 10,
+          "options": null,
+          "placeholder": "回礼金额"
+        },
+        {
+          "name": "回礼日期",
+          "fieldType": "日期",
+          "isRequired": false,
+          "order": 11,
+          "options": null,
+          "placeholder": null
+        }
+      ]
+    }
+  ]
+}

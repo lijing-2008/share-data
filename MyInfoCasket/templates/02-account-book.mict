@@ -1,0 +1,260 @@
+{
+  "exportDate" : "2026-02-20T12:39:16Z",
+  "templates" : [
+    {
+      "colorHex" : "#6B8E8E",
+      "description" : "",
+      "fields" : [
+        {
+          "fieldType" : "文本",
+          "isRequired" : true,
+          "name" : "账号平台",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "账号类型",
+          "options" : [
+            "电商购物",
+            "开发工具",
+            "云存储",
+            "金融支付",
+            "办公协作",
+            "邮箱",
+            "其他",
+            "娱乐影音",
+            "社交媒体",
+            "游戏"
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "用户名",
+          "options" : [
+
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "登录邮箱",
+          "options" : [
+
+          ],
+          "order" : 3
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "登录手机",
+          "options" : [
+
+          ],
+          "order" : 4
+        },
+        {
+          "fieldType" : "密码",
+          "isRequired" : false,
+          "name" : "密码",
+          "options" : [
+
+          ],
+          "order" : 5
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "密钥\/Token",
+          "options" : [
+
+          ],
+          "order" : 6
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "绑定微信",
+          "options" : [
+
+          ],
+          "order" : 7
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "绑定QQ",
+          "options" : [
+
+          ],
+          "order" : 8
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "绑定支付宝",
+          "options" : [
+
+          ],
+          "order" : 9
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "安全问题1",
+          "options" : [
+
+          ],
+          "order" : 10
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "安全答案1",
+          "options" : [
+
+          ],
+          "order" : 11
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "安全问题2",
+          "options" : [
+
+          ],
+          "order" : 12
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "安全答案2",
+          "options" : [
+
+          ],
+          "order" : 13
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "双因素认证",
+          "options" : [
+            "短信验证",
+            "authenticator",
+            "硬件密钥",
+            "邮箱验证",
+            "未启用"
+          ],
+          "order" : 14
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "备用邮箱",
+          "options" : [
+
+          ],
+          "order" : 15
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "备用手机",
+          "options" : [
+
+          ],
+          "order" : 16
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "注册日期",
+          "options" : [
+
+          ],
+          "order" : 17
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "会员到期日",
+          "options" : [
+
+          ],
+          "order" : 18
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "账号状态",
+          "options" : [
+            "已注销",
+            "正常使用",
+            "已停用",
+            "被封禁"
+          ],
+          "order" : 19
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "重要程度",
+          "options" : [
+            "⭐ 一般",
+            "⭐⭐⭐ 非常重要",
+            "⭐⭐ 重要"
+          ],
+          "order" : 20
+        },
+        {
+          "fieldType" : "链接",
+          "isRequired" : false,
+          "name" : "账号链接",
+          "options" : [
+
+          ],
+          "order" : 21
+        },
+        {
+          "fieldType" : "图片",
+          "isRequired" : false,
+          "name" : "二维码截图",
+          "options" : [
+
+          ],
+          "order" : 22
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "备注说明",
+          "options" : [
+
+          ],
+          "order" : 23
+        },
+        {
+          "fieldType" : "图片",
+          "isRequired" : false,
+          "name" : "头像",
+          "options" : [
+
+          ],
+          "order" : 24
+        }
+      ],
+      "iconName" : "key.fill",
+      "name" : "第2弹：账号本子 模板",
+      "tags" : [
+
+      ]
+    }
+  ],
+  "version" : "1.0"
+}

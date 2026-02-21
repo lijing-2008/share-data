@@ -1,0 +1,96 @@
+{
+  "exportDate" : "2026-02-21T08:19:15Z",
+  "templates" : [
+    {
+      "colorHex" : "#5B7C99",
+      "description" : "",
+      "fields" : [
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "名称",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "上映时间",
+          "options" : [
+
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "多选",
+          "isRequired" : false,
+          "name" : "类型",
+          "options" : [
+            "动作",
+            "喜剧",
+            "悬疑",
+            "爱情",
+            "剧情",
+            "科幻"
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "观看状态",
+          "options" : [
+            "未看",
+            "已看",
+            "二刷"
+          ],
+          "order" : 3
+        },
+        {
+          "fieldType" : "评分",
+          "isRequired" : false,
+          "name" : "推荐指数",
+          "options" : [
+
+          ],
+          "order" : 4
+        },
+        {
+          "fieldType" : "链接",
+          "isRequired" : false,
+          "name" : "豆瓣链接",
+          "options" : [
+
+          ],
+          "order" : 5
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "短评",
+          "options" : [
+
+          ],
+          "order" : 6
+        },
+        {
+          "fieldType" : "图片集",
+          "isRequired" : false,
+          "name" : "海报",
+          "options" : [
+
+          ],
+          "order" : 7
+        }
+      ],
+      "iconName" : "folder.fill",
+      "name" : "第5弹：电影珍藏 模板",
+      "tags" : [
+
+      ]
+    }
+  ],
+  "version" : "1.0"
+}
