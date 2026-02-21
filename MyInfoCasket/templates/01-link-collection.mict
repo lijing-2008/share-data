@@ -3,7 +3,7 @@
   "exportDate": "2026-02-21T00:00:00Z",
   "templates": [
     {
-      "name": "链接收藏",
+      "name": "第1弹：链接收藏",
       "description": "收藏常用网站、文章、资源链接，随时查阅",
       "iconName": "link.circle.fill",
       "colorHex": "#0FF0FC",
