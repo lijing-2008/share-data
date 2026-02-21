@@ -14,15 +14,6 @@
           "tags": ["链接", "收藏", "网站"],
           "fieldCount": 6,
           "fileName": "01link-collection.mict"
-        },
-        {
-          "name": "帐号本子",
-          "description": "安全管理各类网站、App的账号密码与绑定信息",
-          "iconName": "key.fill",
-          "colorHex": "#00D9FF",
-          "tags": ["账号", "密码", "安全"],
-          "fieldCount": 24,
-          "fileName": "02account-book.mict"
         }
       ]
     },

@@ -1,8 +1,8 @@
 {
-  "exportDate" : "2026-02-20T12:38:45Z",
+  "exportDate" : "2026-02-21T08:24:52Z",
   "templates" : [
     {
-      "colorHex" : "#C4A77D",
+      "colorHex" : "#5B7C99",
       "description" : "",
       "fields" : [
         {
@@ -17,7 +17,7 @@
         {
           "fieldType" : "链接",
           "isRequired" : false,
-          "name" : "链接地址",
+          "name" : "链接",
           "options" : [
 
           ],
@@ -26,24 +26,15 @@
         {
           "fieldType" : "长文本",
           "isRequired" : false,
-          "name" : "备注📝",
+          "name" : "备注",
           "options" : [
 
           ],
           "order" : 2
-        },
-        {
-          "fieldType" : "长文本",
-          "isRequired" : false,
-          "name" : "示例简介",
-          "options" : [
-
-          ],
-          "order" : 3
         }
       ],
-      "iconName" : "link.circle.fill",
-      "name" : "第1弹：链接收藏 模板",
+      "iconName" : "folder.fill",
+      "name" : "第1弹 链接收藏 模板",
       "tags" : [
 
       ]
