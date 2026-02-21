@@ -57,7 +57,7 @@
           "iconName": "film.fill",
           "colorHex": "#FF6B6B",
           "tags": ["电影", "观影", "影评"],
-          "fieldCount": 10,
+          "fieldCount": 8,
           "fileName": "05-movie-collection.mict"
         }
       ]

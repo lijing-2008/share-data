@@ -3,7 +3,7 @@
   "templates" : [
     {
       "colorHex" : "#B967FF",
-      "description" : "",
+      "description" : "集中管理家人身份证信息，办事填表不再翻找",
       "fields" : [
         {
           "fieldType" : "文本",
@@ -80,9 +80,7 @@
       ],
       "iconName" : "creditcard.fill",
       "name" : "第3弹：身份证合集 模板",
-      "tags" : [
-
-      ]
+      "tags" : ["身份证", "证件", "家人" ]
     }
   ],
   "version" : "1.0"

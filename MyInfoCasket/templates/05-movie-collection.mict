@@ -3,7 +3,7 @@
   "templates" : [
     {
       "colorHex" : "#5B7C99",
-      "description" : "",
+      "description" : "记录观影足迹，珍藏每一部打动你的电影",
       "fields" : [
         {
           "fieldType" : "文本",
@@ -87,9 +87,7 @@
       ],
       "iconName" : "folder.fill",
       "name" : "第5弹：电影珍藏 模板",
-      "tags" : [
-
-      ]
+      "tags" : [ "电影", "观影", "影评" ]
     }
   ],
   "version" : "1.0"
