@@ -1,0 +1,99 @@
+{
+  "exportDate" : "2026-02-27T01:30:47Z",
+  "templates" : [
+    {
+      "colorHex" : "#A65D5D",
+      "description" : "把所有温柔念想都好好安放",
+      "fields" : [
+        {
+          "fieldType" : "文本",
+          "isRequired" : true,
+          "name" : "心愿名称",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : true,
+          "name" : "心愿分类",
+          "options" : [
+
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "心愿说明",
+          "options" : [
+
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "优先级",
+          "options" : [
+
+          ],
+          "order" : 3
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "当前状态",
+          "options" : [
+
+          ],
+          "order" : 4
+        },
+        {
+          "fieldType" : "进度",
+          "isRequired" : false,
+          "name" : "目标进度",
+          "options" : [
+
+          ],
+          "order" : 5
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "截止时间",
+          "options" : [
+
+          ],
+          "order" : 6
+        },
+        {
+          "fieldType" : "图片集",
+          "isRequired" : false,
+          "name" : "相关图片",
+          "options" : [
+
+          ],
+          "order" : 7
+        },
+        {
+          "fieldType" : "链接",
+          "isRequired" : false,
+          "name" : "相关链接",
+          "options" : [
+
+          ],
+          "order" : 8
+        }
+      ],
+      "iconName" : "moon.stars.fill",
+      "name" : "第6弹｜🔥心愿集 模板",
+      "tags" : [
+        "心愿",
+        "愿望清单"
+      ]
+    }
+  ],
+  "version" : "1.0"
+}

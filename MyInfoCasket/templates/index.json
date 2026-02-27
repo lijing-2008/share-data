@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updateDate": "2026-02-21",
+  "updateDate": "2026-02-27",
   "categories": [
     {
       "name": "效率工具",
@@ -44,6 +44,15 @@
           "tags": ["礼金", "人情", "随礼"],
           "fieldCount": 12,
           "fileName": "04-gift-money-book.mict"
+        },
+        {
+          "name": "心愿集",
+          "description": "把所有温柔念想都好好安放",
+          "iconName": "moon.stars.fill",
+          "colorHex": "#A65D5D",
+          "tags": ["心愿", "愿望清单"],
+          "fieldCount": 9,
+          "fileName": "第6弹｜🔥心愿集 模板.mict"
         }
       ]
     },
@@ -59,6 +68,21 @@
           "tags": ["电影", "观影", "影评"],
           "fieldCount": 8,
           "fileName": "05-movie-collection.mict"
+        }
+      ]
+    },
+    {
+      "name": "健康管理",
+      "icon": "heart.fill",
+      "templates": [
+        {
+          "name": "经期记录",
+          "description": "温柔记录身体，好好爱自己🌸",
+          "iconName": "folder.fill",
+          "colorHex": "#5B7C99",
+          "tags": ["经期"],
+          "fieldCount": 9,
+          "fileName": "第7弹｜🔥经期记录 模板.mict"
         }
       ]
     }

@@ -1,0 +1,101 @@
+{
+  "exportDate" : "2026-02-27T01:30:55Z",
+  "templates" : [
+    {
+      "colorHex" : "#5B7C99",
+      "description" : "温柔记录身体，好好爱自己🌸",
+      "fields" : [
+        {
+          "fieldType" : "日期",
+          "isRequired" : true,
+          "name" : "开始日期",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "日期",
+          "isRequired" : false,
+          "name" : "结束日期",
+          "options" : [
+
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "数字",
+          "isRequired" : false,
+          "name" : "周期天数",
+          "options" : [
+
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "周期状态",
+          "options" : [
+            "已结束",
+            "进行中"
+          ],
+          "order" : 3
+        },
+        {
+          "fieldType" : "单选",
+          "isRequired" : false,
+          "name" : "整体感受",
+          "options" : [
+            "轻松舒适",
+            "轻微不适",
+            "明显不适"
+          ],
+          "order" : 4
+        },
+        {
+          "fieldType" : "多选",
+          "isRequired" : false,
+          "name" : "主要症状",
+          "options" : [
+
+          ],
+          "order" : 5
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "经期备注",
+          "options" : [
+
+          ],
+          "order" : 6
+        },
+        {
+          "fieldType" : "图片集",
+          "isRequired" : false,
+          "name" : "相关图片",
+          "options" : [
+
+          ],
+          "order" : 7
+        },
+        {
+          "fieldType" : "语音",
+          "isRequired" : false,
+          "name" : "语音记录",
+          "options" : [
+
+          ],
+          "order" : 8
+        }
+      ],
+      "iconName" : "folder.fill",
+      "name" : "第7弹｜🔥经期记录 模板",
+      "tags" : [
+        "经期"
+      ]
+    }
+  ],
+  "version" : "1.0"
+}
