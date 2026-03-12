@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updateDate": "2026-02-27",
+  "updateDate": "2026-03-12",
   "categories": [
     {
       "name": "效率工具",
@@ -53,6 +53,15 @@
           "tags": ["心愿", "愿望清单"],
           "fieldCount": 9,
           "fileName": "第6弹｜🔥心愿集 模板.mict"
+        },
+        {
+          "name": "居家定期家务打卡",
+          "description": "用于定期家务事打卡",
+          "iconName": "arrow.triangle.2.circlepath.circle",
+          "colorHex": "#5B7C99",
+          "tags": ["家务", "打卡"],
+          "fieldCount": 4,
+          "fileName": "第8弹｜🔥居家定期家务打卡 模板.mict"
         }
       ]
     },

@@ -1,0 +1,54 @@
+{
+  "exportDate" : "2026-03-12T03:32:03Z",
+  "templates" : [
+    {
+      "colorHex" : "#5B7C99",
+      "description" : "用于定期家务事打卡",
+      "fields" : [
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "名称",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "周期打卡",
+          "isRequired" : false,
+          "name" : "打卡配置",
+          "options" : [
+
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "备注",
+          "options" : [
+
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "图片集",
+          "isRequired" : false,
+          "name" : "相关图片",
+          "options" : [
+
+          ],
+          "order" : 3
+        }
+      ],
+      "iconName" : "arrow.triangle.2.circlepath.circle",
+      "name" : "第8弹｜🔥居家定期家务打卡 模板",
+      "tags" : [
+        "家务",
+        "打卡"
+      ]
+    }
+  ],
+  "version" : "1.0"
+}
