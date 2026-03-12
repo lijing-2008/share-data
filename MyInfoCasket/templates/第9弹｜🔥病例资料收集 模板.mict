@@ -60,7 +60,7 @@
           "order" : 5
         },
         {
-          "fieldType" : "数字",
+          "fieldType" : "金额",
           "isRequired" : false,
           "name" : "就诊费用",
           "options" : [
