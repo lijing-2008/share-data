@@ -92,6 +92,15 @@
           "tags": ["经期"],
           "fieldCount": 9,
           "fileName": "第7弹｜🔥经期记录 模板.mict"
+        },
+        {
+          "name": "病例资料收集",
+          "description": "记录每次就诊信息，病历资料随时查阅",
+          "iconName": "cross.case.fill",
+          "colorHex": "#4A90D9",
+          "tags": ["病例", "就诊", "医疗"],
+          "fieldCount": 8,
+          "fileName": "第9弹｜🔥病例资料收集 模板.mict"
         }
       ]
     }

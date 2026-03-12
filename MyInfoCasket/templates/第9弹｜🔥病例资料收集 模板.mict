@@ -1,0 +1,91 @@
+{
+  "exportDate" : "2026-03-12T06:00:00Z",
+  "templates" : [
+    {
+      "colorHex" : "#4A90D9",
+      "description" : "记录每次就诊信息，病历资料随时查阅",
+      "fields" : [
+        {
+          "fieldType" : "日期",
+          "isRequired" : true,
+          "name" : "就诊日期",
+          "options" : [
+
+          ],
+          "order" : 0
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "医院名称",
+          "options" : [
+
+          ],
+          "order" : 1
+        },
+        {
+          "fieldType" : "文本",
+          "isRequired" : false,
+          "name" : "科室",
+          "options" : [
+
+          ],
+          "order" : 2
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "诊断结果",
+          "options" : [
+
+          ],
+          "order" : 3
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "用药记录",
+          "options" : [
+
+          ],
+          "order" : 4
+        },
+        {
+          "fieldType" : "数字",
+          "isRequired" : false,
+          "name" : "就诊费用",
+          "options" : [
+
+          ],
+          "order" : 5
+        },
+        {
+          "fieldType" : "图片集",
+          "isRequired" : false,
+          "name" : "病例图片",
+          "options" : [
+
+          ],
+          "order" : 6
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "备注",
+          "options" : [
+
+          ],
+          "order" : 7
+        }
+      ],
+      "iconName" : "cross.case.fill",
+      "name" : "第9弹｜🔥病例资料收集 模板",
+      "tags" : [
+        "病例",
+        "就诊",
+        "医疗"
+      ]
+    }
+  ],
+  "version" : "1.0"
+}
