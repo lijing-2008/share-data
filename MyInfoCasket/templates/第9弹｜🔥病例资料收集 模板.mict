@@ -6,18 +6,18 @@
       "description" : "记录每次就诊信息，病历资料随时查阅",
       "fields" : [
         {
-          "fieldType" : "日期",
+          "fieldType" : "单选",
           "isRequired" : true,
-          "name" : "就诊日期",
+          "name" : "就诊人",
           "options" : [
 
           ],
           "order" : 0
         },
         {
-          "fieldType" : "文本",
-          "isRequired" : false,
-          "name" : "医院名称",
+          "fieldType" : "日期",
+          "isRequired" : true,
+          "name" : "就诊日期",
           "options" : [
 
           ],
@@ -26,16 +26,16 @@
         {
           "fieldType" : "文本",
           "isRequired" : false,
-          "name" : "科室",
+          "name" : "医院名称",
           "options" : [
 
           ],
           "order" : 2
         },
         {
-          "fieldType" : "长文本",
+          "fieldType" : "文本",
           "isRequired" : false,
-          "name" : "诊断结果",
+          "name" : "科室",
           "options" : [
 
           ],
@@ -44,11 +44,20 @@
         {
           "fieldType" : "长文本",
           "isRequired" : false,
-          "name" : "用药记录",
+          "name" : "诊断结果",
           "options" : [
 
           ],
           "order" : 4
+        },
+        {
+          "fieldType" : "长文本",
+          "isRequired" : false,
+          "name" : "用药记录",
+          "options" : [
+
+          ],
+          "order" : 5
         },
         {
           "fieldType" : "数字",
@@ -57,7 +66,7 @@
           "options" : [
 
           ],
-          "order" : 5
+          "order" : 6
         },
         {
           "fieldType" : "图片集",
@@ -66,7 +75,7 @@
           "options" : [
 
           ],
-          "order" : 6
+          "order" : 7
         },
         {
           "fieldType" : "长文本",
@@ -75,7 +84,7 @@
           "options" : [
 
           ],
-          "order" : 7
+          "order" : 8
         }
       ],
       "iconName" : "cross.case.fill",
